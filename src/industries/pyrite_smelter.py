@@ -18,6 +18,7 @@ industry = IndustrySecondary(
 )
 
 industry.economy_variations["BASIC_ARCTIC"].enabled = True
+industry.economy_variations["MILD_MILD_WEST"].enabled = True
 
 industry.add_tile(
     id="pyrite_smelter_tile_1",

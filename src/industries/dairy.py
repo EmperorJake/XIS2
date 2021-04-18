@@ -21,6 +21,7 @@ industry.economy_variations["BASIC_TEMPERATE"].accept_cargos_with_input_ratios =
 
 ###industry.economy_variations['BETTER_LIVING_THROUGH_CHEMISTRY'].enabled = True
 ###industry.economy_variations['BETTER_LIVING_THROUGH_CHEMISTRY'].accept_cargos_with_input_ratios = [('MILK', 6), ('MNSP', 2)]
+industry.economy_variations["MILD_MILD_WEST"].enabled = True
 
 # tile with animation for flag
 industry.add_tile(

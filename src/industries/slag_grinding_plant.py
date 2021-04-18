@@ -21,6 +21,7 @@ industry.economy_variations["STEELTOWN"].enabled = True
 industry.economy_variations[
     "STEELTOWN"
 ].prob_in_game = "0"  # do not build during gameplay
+industry.economy_variations["MILD_MILD_WEST"].enabled = True
 
 industry.add_tile(
     id="slag_grinding_plant_tile_1",

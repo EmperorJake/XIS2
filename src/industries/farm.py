@@ -35,6 +35,7 @@ industry.economy_variations["STEELTOWN"].enabled = True
 industry.economy_variations["STEELTOWN"].prod_cargo_types_with_multipliers = [
     ("FOOD", 14)
 ]
+industry.economy_variations["MILD_MILD_WEST"].enabled = True
 
 industry.add_tile(
     id="farm_tile_1",

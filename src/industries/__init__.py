@@ -294,10 +294,9 @@ from industries import oil_wells
 
 oil_wells.industry.register()
 
-""" BLTC
 from industries import oil_refinery
+
 oil_refinery.industry.register()
-"""
 
 from industries import oil_rig
 
@@ -392,10 +391,9 @@ from industries import sawmill
 
 sawmill.industry.register()
 
-"""
 from industries import sheep_farm
+
 sheep_farm.industry.register()
-"""
 
 from industries import sheet_and_pipe_mill
 

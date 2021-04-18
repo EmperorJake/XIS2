@@ -22,6 +22,12 @@ industry.economy_variations["STEELTOWN"].enabled = True
 industry.economy_variations[
     "STEELTOWN"
 ].prob_in_game = "1"  # low chance of build during gameplay
+industry.economy_variations["MILD_MILD_WEST"].enabled = True
+industry.economy_variations["MILD_MILD_WEST"].prod_cargo_types_with_output_ratios = [
+    ("STSH", 3),
+    ("STWR", 3),
+    ("SLAG", 2),
+]
 
 industry.add_tile(
     id="electric_arc_furnace_tile_1",

@@ -22,6 +22,7 @@ industry.economy_variations["BASIC_ARCTIC"].prod_cargo_types_with_multipliers = 
     ("WOOD", 24)
 ]
 industry.economy_variations["IN_A_HOT_COUNTRY"].enabled = True
+industry.economy_variations["MILD_MILD_WEST"].enabled = True
 
 industry.add_tile(
     id="forest_tile_1",

@@ -16,6 +16,7 @@ industry = IndustrySecondary(
     fund_cost_multiplier="120",
 )
 
+industry.economy_variations["MILD_MILD_WEST"].enabled = True
 industry.economy_variations["STEELTOWN"].enabled = True
 industry.economy_variations[
     "STEELTOWN"

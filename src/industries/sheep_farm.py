@@ -13,6 +13,7 @@ industry = IndustryPrimaryOrganic(
     fund_cost_multiplier="45",
 )
 
+industry.economy_variations["MILD_MILD_WEST"].enabled = True
 
 industry.add_tile(
     id="sheep_farm_tile_1",

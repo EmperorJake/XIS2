@@ -26,6 +26,10 @@ industry.enable_in_economy(
 industry.enable_in_economy(
     "IN_A_HOT_COUNTRY",
 )
+industry.enable_in_economy(
+    "BASIC_TEMPERATE",
+)
+
 
 industry.add_tile(
     id="forest_tile_1",

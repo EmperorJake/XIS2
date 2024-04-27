@@ -25,6 +25,9 @@ industry = IndustryPrimaryExtractive(
 )
 
 industry.enable_in_economy(
+    "BASIC_TEMPERATE",
+)
+industry.enable_in_economy(
     "IN_A_HOT_COUNTRY",
 )
 

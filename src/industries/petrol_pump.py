@@ -25,6 +25,10 @@ industry.enable_in_economy(
     "IN_A_HOT_COUNTRY",
 )
 
+industry.enable_in_economy(
+    "BASIC_TEMPERATE",
+)
+
 
 industry.add_tile(
     id="petrol_pump_tile_1",

@@ -6,9 +6,8 @@ industry = IndustrySecondary(
         ("OIL_", 8),
     ],
     prod_cargo_types_with_output_ratios=[
-        ("PETR", 3),
-        ("NAPH", 3),
-        ("BITU", 2),
+        ("RFPR", 4),
+        ("PETR", 4),
     ],
     prob_in_game="3",
     prob_map_gen="5",
@@ -17,6 +16,10 @@ industry = IndustrySecondary(
     fund_cost_multiplier="200",
     name="TTD_STR_INDUSTRY_NAME_OIL_REFINERY",
     nearby_station_name="string(STR_STATION_REFINERY)",
+)
+
+industry.enable_in_economy(
+    "BASIC_TEMPERATE",
 )
 
 industry.add_tile(

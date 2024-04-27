@@ -28,6 +28,13 @@ industry.enable_in_economy(
     "BASIC_ARCTIC",
 )
 
+industry.enable_in_economy(
+    "BASIC_TEMPERATE",
+    prod_cargo_types_with_output_ratios=[
+        ("GOOD", 8),
+    ],
+)
+
 industry.add_tile(
     id="sawmill_tile_1",
     location_checks=TileLocationChecks(disallow_industry_adjacent=True),

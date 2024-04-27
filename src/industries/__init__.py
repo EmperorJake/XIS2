@@ -50,6 +50,7 @@ from industries import metal_workshop
 from industries import nitrate_mine
 from industries import oil_wells
 from industries import oil_rig
+from industries import oil_refinery
 from industries import orchard_piggery
 from industries import paper_mill
 from industries import peatlands
@@ -129,6 +130,7 @@ metal_workshop.industry.register()
 nitrate_mine.industry.register()
 oil_wells.industry.register()
 oil_rig.industry.register()
+oil_refinery.industry.register()
 orchard_piggery.industry.register()
 paper_mill.industry.register()
 peatlands.industry.register()

@@ -21,12 +21,11 @@ industry.enable_in_economy(
     accept_cargo_types=[
         "GOOD",
         "KAOL",
-        "FOOD",
+        "PETR",
     ],
     prod_cargo_types_with_multipliers=[
         ("ENSP", 19),
-        ("FMSP", 7),
-        ("RFPR", 19),
+        ("FMSP", 19),
     ],
     prob_map_gen="10",
 )

@@ -23,173 +23,360 @@ STR_PARAM_DESC_PRIMARY_LEVEL_BONUS                                              
 STR_PARAM_VALUE_ECONOMIES_BASIC_TEMPERATE                                       :Základní mírná
 STR_PARAM_VALUE_ECONOMIES_BASIC_ARCTIC                                          :Základní arktická
 STR_PARAM_VALUE_ECONOMIES_BASIC_TROPIC                                          :Základní tropická
-STR_PARAM_VALUE_ECONOMIES_IN_A_HOT_COUNTRY                                          :V subtropech
+STR_PARAM_VALUE_ECONOMIES_IN_A_HOT_COUNTRY                                      :V subtropech
 STR_PARAM_VALUE_ECONOMIES_STEELTOWN                                             :Ocelové město
 
+STR_CARGO_NAME_ACETIC_ACID                                                      :Kyselina octová
 STR_CARGO_NAME_ACID                                                             :Kyselina
 STR_CARGO_NAME_ALCOHOL                                                          :Alkohol
+STR_CARGO_NAME_ALLOY_STEEL                                                      :Slitiny
+STR_CARGO_NAME_ALUMINIUM                                                        :Hliník
+STR_CARGO_NAME_ALUMINIA                                                         :Oxid hlinitý
+STR_CARGO_NAME_AMMONIA                                                          :Čpavek
+STR_CARGO_NAME_AMMONIUM_NITRATE                                                 :Amoniumnitrát
 STR_CARGO_NAME_BAUXITE                                                          :Bauxit
 STR_CARGO_NAME_BEANS                                                            :Fazole
 STR_CARGO_NAME_BUILDING_MATERIALS                                               :Stavební materiály
+STR_CARGO_NAME_BIOMASS                                                          :Biomasa
+STR_CARGO_NAME_CARBON_BLACK                                                     :Popílek
+STR_CARGO_NAME_CARBON_STEEL                                                     :Uhlíková ocel
 STR_CARGO_NAME_CASSAVA                                                          :Maniok
+STR_CARGO_NAME_CAST_IRON                                                        :Litina
 STR_CARGO_NAME_CEMENT                                                           :Cement
 STR_CARGO_NAME_CHEMICALS                                                        :Chemikálie
 STR_CARGO_NAME_CHLORINE                                                         :Chlór
+STR_CARGO_NAME_CHROMITE_ORE                                                     :Chromitová ruda
 STR_CARGO_NAME_CLAY                                                             :Jíl
+STR_CARGO_NAME_CLEANING_AGENTS                                                  :Čistící prostředky
 STR_CARGO_NAME_COFFEE                                                           :Káva
+STR_CARGO_NAME_COAL_TAR                                                         :Uhelný dehet
 STR_CARGO_NAME_COKE                                                             :Koks
 STR_CARGO_NAME_COPPER                                                           :Měď
+STR_CARGO_NAME_COPPER_CONCENTRATE                                               :Koncentrát mědi
 STR_CARGO_NAME_EDIBLE_OIL                                                       :Potravinářský olej
+STR_CARGO_NAME_ELECTRICAL_PARTS                                                 :Elektrické součástky
 STR_CARGO_NAME_ENGINEERING_SUPPLIES                                             :Strojírenské potřeby
+STR_CARGO_NAME_ETHYLENE                                                         :Monomer
 STR_CARGO_NAME_EXPLOSIVES                                                       :Výbušniny
 STR_CARGO_NAME_FIBRES                                                           :Rostlinná vlákna
 STR_CARGO_NAME_FISH                                                             :Ryby
 STR_CARGO_NAME_FARM_SUPPLIES                                                    :Zemědělské potřeby
 STR_CARGO_NAME_FERTILISER                                                       :Hnojivo
 STR_CARGO_NAME_FRUITS                                                           :Ovoce a Zelenina
+STR_CARGO_NAME_FLOUR                                                            :Mouka
+STR_CARGO_NAME_FOOD_ADDITIVES                                                   :Přísady do jídla
+STR_CARGO_NAME_FERROCHROME                                                      :Feroslitina
+STR_CARGO_NAME_FISH_AND_MEAT                                                    :Ryby a maso
+STR_CARGO_NAME_FORGINGS_AND_CASTINGS                                            :Odlitky
+STR_CARGO_NAME_FORMIC_ACID                                                      :Kyselina mravenčí
+STR_CARGO_NAME_FURNITURE                                                        :Nábytek
+STR_CARGO_NAME_GLASS                                                            :Sklo
+STR_CARGO_NAME_HYDROCHLORIC_ACID                                                :Kyselina chlorovodíková
+STR_CARGO_NAME_HYDROGEN                                                         :Vodík
 STR_CARGO_NAME_KAOLIN                                                           :Kaolin
+STR_CARGO_NAME_LOGS                                                             :Klády
 STR_CARGO_NAME_LIMESTONE                                                        :Vápenec
 STR_CARGO_NAME_LUMBER                                                           :Řezivo
+STR_CARGO_NAME_LYE                                                              :Hydroxid sodný
 STR_CARGO_NAME_METAL                                                            :Kov
 STR_CARGO_NAME_MILK                                                             :Mléko
+STR_CARGO_NAME_MEAT                                                             :Maso
 STR_CARGO_NAME_MANGANESE                                                        :Mangan
+STR_CARGO_NAME_METHANE                                                          :Metan
+STR_CARGO_NAME_METHANOL                                                         :Metanol
 STR_CARGO_NAME_NITRATES                                                         :Ledek
 STR_CARGO_NAME_NUTS                                                             :Ořechy
-STR_CARGO_NAME_PACKAGING                                                        :Balené zboží
+STR_CARGO_NAME_NAPHTHA                                                          :Solventní nafta
+STR_CARGO_NAME_NICKEL                                                           :Nikl
+STR_CARGO_NAME_NITROGEN                                                         :Dusík
+STR_CARGO_NAME_OIL_SEEDS                                                        :Olejnatá semena
+STR_CARGO_NAME_OXYGEN                                                           :Kyslík
+STR_CARGO_NAME_PACKAGING                                                        :Obalový materiál
+STR_CARGO_NAME_PAINTS_AND_COATINGS                                              :Byrvy a laky
 STR_CARGO_NAME_PEAT                                                             :Rašelina
 STR_CARGO_NAME_PETROL                                                           :Paliva
 STR_CARGO_NAME_PHOSPHATE                                                        :Fosfát
+STR_CARGO_NAME_PHOSPHORIC_ACID                                                  :Kyselina fosforová
 STR_CARGO_NAME_PIG_IRON                                                         :Surové železo
 STR_CARGO_NAME_PIPE                                                             :Trubky
+STR_CARGO_NAME_PLASTICS                                                         :Plasty
+STR_CARGO_NAME_PLASTIC_PARTS                                                    :Plastové díly
 STR_CARGO_NAME_POTASH                                                           :Potaš
 STR_CARGO_NAME_PYRITE_ORE                                                       :Pyrit
+STR_CARGO_NAME_PROPYLENE                                                        :Propen
 STR_CARGO_NAME_QUICKLIME                                                        :Nehašené vápno
 STR_CARGO_NAME_RECYCLABLES                                                      :Recyklovatelné materiály
+STR_CARGO_NAME_RARE_METALS                                                      :Vzácné kovy
+STR_CARGO_NAME_RAW_LATEX                                                        :Latex
+STR_CARGO_NAME_REBAR                                                            :Armatura
 STR_CARGO_NAME_SALT                                                             :Sůl
 STR_CARGO_NAME_SAND                                                             :Písek
 STR_CARGO_NAME_SCRAP_METAL                                                      :Kovový šrot
 STR_CARGO_NAME_SLAG                                                             :Struska
 STR_CARGO_NAME_SODA_ASH                                                         :Soda
 STR_CARGO_NAME_STEEL                                                            :Ocel
+STR_CARGO_NAME_STAINLESS_STEEL                                                  :Nerezová ocel
+STR_CARGO_NAME_STEEL_SECTIONS                                                   :Kovové součástky
+STR_CARGO_NAME_STEEL_SHEET                                                      :Plech
+STR_CARGO_NAME_STEEL_WIRE_ROD                                                   :Drátová ocel
 STR_CARGO_NAME_STONE                                                            :Kámen
 STR_CARGO_NAME_SUGAR_BEET                                                       :Cukrová řepa
+STR_CARGO_NAME_SUGAR                                                            :Cukr
+STR_CARGO_NAME_SUGAR_CANE                                                       :Cukrová třtina
 STR_CARGO_NAME_SULPHUR                                                          :Síra
+STR_CARGO_NAME_SULPHURIC_ACID                                                   :Kyselina sírová
+STR_CARGO_NAME_TEXTILES                                                         :Látka
+STR_CARGO_NAME_TIN                                                              :Cín
+STR_CARGO_NAME_TINPLATE                                                         :Cínové pláty
+# not just tyres, also belts, gaskets etc
+STR_CARGO_NAME_TYRES                                                            :Gumové díly
+STR_CARGO_NAME_UREA                                                             :Močovina
 STR_CARGO_NAME_VEHICLE_BODIES                                                   :Karoserie vozidel
 STR_CARGO_NAME_VEHICLE_PARTS                                                    :Díly vozidel
+STR_CARGO_NAME_VEHICLE_ENGINES                                                  :Motory
 STR_CARGO_NAME_VEHICLES                                                         :Vozidla
 STR_CARGO_NAME_WOOL                                                             :Vlna
+STR_CARGO_NAME_YARN                                                             :Příze
 STR_CARGO_NAME_ZINC                                                             :Zinek
 
+STR_CARGO_UNIT_ACETIC_ACID                                                      :{VOLUME} kyseliny octové
 STR_CARGO_UNIT_ACID                                                             :{VOLUME} kyseliny
 STR_CARGO_UNIT_ALCOHOL                                                          :{VOLUME} alkoholu
+STR_CARGO_UNIT_ALLOY_STEEL                                                      :{WEIGHT} slitin
+STR_CARGO_UNIT_ALUMINIA                                                         :{WEIGHT} oxidu hlinítého
+STR_CARGO_UNIT_ALUMINIUM                                                        :{WEIGHT} hliníku
+STR_CARGO_UNIT_AMMONIA                                                          :{VOLUME} čpavku
+STR_CARGO_UNIT_AMMONIUM_NITRATE                                                 :{VOLUME} amoniumnitrátu
 STR_CARGO_UNIT_BAUXITE                                                          :{WEIGHT} bauxitu
 STR_CARGO_UNIT_BEANS                                                            :{WEIGHT} fazolí
+STR_CARGO_UNIT_BIOMASS                                                          :{WEIGHT} biomasy
 STR_CARGO_UNIT_BUILDING_MATERIALS                                               :{WEIGHT} stavebních materiálů
+STR_CARGO_UNIT_CARBON_BLACK                                                     :{WEIGHT} popílku
+STR_CARGO_UNIT_CARBON_STEEL                                                     :{WEIGHT} uhlíkové ocely
 STR_CARGO_UNIT_CASSAVA                                                          :{WEIGHT} manioku
+STR_CARGO_UNIT_CAST_IRON                                                        :{WEIGHT} litiny
 STR_CARGO_UNIT_CEMENT                                                           :{WEIGHT} cementu
 STR_CARGO_UNIT_CHEMICALS                                                        :{VOLUME} chemikálií
-STR_CARGO_UNIT_CHLORINE                                                         :{VOLUME} chlóru
+STR_CARGO_UNIT_CHLORINE                                                         :{VOLUME} chloru
+STR_CARGO_UNIT_CHROMITE_ORE                                                     :{WEIGHT} chromitové rudy
 STR_CARGO_UNIT_CLAY                                                             :{WEIGHT} jílu
-STR_CARGO_UNIT_COFFEE                                                           :{SIGNED_WORD} pyt{P 0 el le lů} kávy
+STR_CARGO_UNIT_CLEANING_AGENTS                                                  :{WEIGHT} čistících prostředků
+STR_CARGO_UNIT_COAL_TAR                                                         :{VOLUME} dehtu
+STR_CARGO_UNIT_COFFEE                                                           :{SIGNED_WORD} balík{P 0 "ů"} kávy
 STR_CARGO_UNIT_COKE                                                             :{WEIGHT} koksu
 STR_CARGO_UNIT_COPPER                                                           :{WEIGHT} mědi
-STR_CARGO_UNIT_EDIBLE_OIL                                                       :{VOLUME} potravinářského oleje
+STR_CARGO_UNIT_COPPER_CONCENTRATE                                               :{WEIGHT} koncentrátu mědi
+STR_CARGO_UNIT_EDIBLE_OIL                                                       :{VOLUME} jedlého oleje
+STR_CARGO_UNIT_ELECTRICAL_PARTS                                                 :{WEIGHT} elektrických součástek
 STR_CARGO_UNIT_ENGINEERING_SUPPLIES                                             :{SIGNED_WORD} bed{P 0 na ny en} strojírenských potřeb
+STR_CARGO_UNIT_ETHYLENE                                                         :{VOLUME} monomeru
 STR_CARGO_UNIT_EXPLOSIVES                                                       :{SIGNED_WORD} bed{P 0 na ny en} výbušnin
+STR_CARGO_UNIT_FERROCHROME                                                      :{WEIGHT} feroslitin
 STR_CARGO_UNIT_FERTILISER                                                       :{WEIGHT} hnojiva
+STR_CARGO_UNIT_FOOD_ADDITIVES                                                   :{WEIGHT} přísad do jídla
+STR_CARGO_UNIT_FORGINGS_AND_CASTINGS                                            :{WEIGHT} odlitků
+STR_CARGO_UNIT_FORMIC_ACID                                                      :{VOLUME} kyseliny mravenčí
 STR_CARGO_UNIT_FIBRES                                                           :{SIGNED_WORD} balík{P 0 "" y ů} rostlinných vláken
 STR_CARGO_UNIT_FISH                                                             :{WEIGHT} ryb
+STR_CARGO_UNIT_FISH_AND_MEAT                                                    :{WEIGHT} masa a ryb
+STR_CARGO_UNIT_FLOUR                                                            :{WEIGHT} mouky
 STR_CARGO_UNIT_FMSP                                                             :{SIGNED_WORD} bed{P 0 na ny en} zemědělských potřeb
 STR_CARGO_UNIT_FRUITS                                                           :{WEIGHT} ovoce a zeleniny
+STR_CARGO_UNIT_FURNITURE                                                        :{WEIGHT} nábytku
+STR_CARGO_UNIT_GLASS                                                            :{WEIGHT} skla
+STR_CARGO_UNIT_HYDROCHLORIC_ACID                                                :{VOLUME} kyseliny chlorovodíkové
+STR_CARGO_UNIT_HYDROGEN                                                         :{VOLUME} vodíku
 STR_CARGO_UNIT_KAOLIN                                                           :{WEIGHT} kaolinu
 STR_CARGO_UNIT_LIMESTONE                                                        :{WEIGHT} vápence
-STR_CARGO_UNIT_LUMBER                                                           :{WEIGHT} řeziva
-STR_CARGO_UNIT_LYE                                                              :{VOLUME} louhu
+STR_CARGO_UNIT_LOGS                                                             :{WEIGHT} dřeva
+STR_CARGO_UNIT_TIMBER                                                           :{WEIGHT} řeziva
+# cargo uses Sodium Hydroxide as string as it's interchangeable with Lye, but lye is convenient for filename / cargo label
+STR_CARGO_UNIT_LYE                                                              :{VOLUME} hydroxidu sodného
 STR_CARGO_UNIT_MANGANESE                                                        :{WEIGHT} manganu
 STR_CARGO_UNIT_METAL                                                            :{WEIGHT} kovu
+STR_CARGO_UNIT_MEAT                                                             :{WEIGHT} masa
+STR_CARGO_UNIT_METHANE                                                          :{VOLUME} metanu
+STR_CARGO_UNIT_METHANOL                                                         :{VOLUME} metanolu
 STR_CARGO_UNIT_MILK                                                             :{VOLUME} mléka
+STR_CARGO_UNIT_NAPHTHA                                                          :{VOLUME} solventní nafty
 STR_CARGO_UNIT_NICKEL                                                           :{WEIGHT} niklu
 STR_CARGO_UNIT_NITRATES                                                         :{WEIGHT} ledku
-STR_CARGO_UNIT_NUTS                                                             :{SIGNED_WORD} pyt{P 0 el le lů} ořechů
-STR_CARGO_UNIT_PACKAGING                                                        :{WEIGHT} baleného zboží
+STR_CARGO_UNIT_NITROGEN                                                         :{VOLUME} dusíku
+STR_CARGO_UNIT_NUTS                                                             :{SIGNED_WORD} pyt{P 0 el le lů} kávy
+STR_CARGO_UNIT_OXYGEN                                                           :{VOLUME} kyslíku
+STR_CARGO_UNIT_OIL_SEEDS                                                        :{WEIGHT} olejných semen
+STR_CARGO_UNIT_PACKAGING                                                        :{WEIGHT} obalů
+STR_CARGO_UNIT_PAINTS_AND_COATINGS                                              :{VOLUME} barev a laků
 STR_CARGO_UNIT_PEAT                                                             :{WEIGHT} rašeliny
-STR_CARGO_UNIT_PETROL                                                           :{VOLUME} paliv
-STR_CARGO_UNIT_PHOSPHATE                                                        :{WEIGHT} fosfátu
+STR_CARGO_UNIT_PETROL                                                           :{VOLUME} ropných paliv
+STR_CARGO_UNIT_PHOSPHATE                                                        :{WEIGHT} fosfátů
+STR_CARGO_UNIT_PHOSPHORIC_ACID                                                  :{VOLUME} kyseliny fosforové
 STR_CARGO_UNIT_PIG_IRON                                                         :{WEIGHT} surového železa
 STR_CARGO_UNIT_PIPE                                                             :{WEIGHT} trubek
+STR_CARGO_UNIT_PLASTICS                                                         :{WEIGHT} plastů
+STR_CARGO_UNIT_PLASTIC_PARTS                                                    :{WEIGHT} plastových dílů
 STR_CARGO_UNIT_POTASH                                                           :{WEIGHT} potaše
-STR_CARGO_UNIT_PYRITE_ORE                                                       :{WEIGHT} pyritu
+STR_CARGO_UNIT_PROPYLENE                                                        :{VOLUME} propenu
+STR_CARGO_UNIT_PYRITE_ORE                                                       :{WEIGHT} piritu
 STR_CARGO_UNIT_QUICKLIME                                                        :{WEIGHT} nehašeného vápna
-STR_CARGO_UNIT_RECYCLABLES                                                      :{WEIGHT} recyklovatelných materiálů
+STR_CARGO_UNIT_RARE_METALS                                                      :{WEIGHT} vzácných kovů
+STR_CARGO_UNIT_RAW_LATEX                                                        :{VOLUME} latexu
+STR_CARGO_UNIT_REBAR                                                            :{WEIGHT} armatur
+STR_CARGO_UNIT_RECYCLABLES                                                      :{WEIGHT} recyklovatelného materiálu
 STR_CARGO_UNIT_SALT                                                             :{WEIGHT} soli
 STR_CARGO_UNIT_SAND                                                             :{WEIGHT} písku
 STR_CARGO_UNIT_SCRAP_METAL                                                      :{WEIGHT} kovového šrotu
 STR_CARGO_UNIT_SLAG                                                             :{WEIGHT} strusky
 STR_CARGO_UNIT_SODA_ASH                                                         :{WEIGHT} sody
-STR_CARGO_UNIT_STEEL                                                            :{WEIGHT} oceli
-STR_CARGO_UNIT_STONE                                                            :{WEIGHT} kamenů
+STR_CARGO_UNIT_STAINLESS_STEEL                                                  :{WEIGHT} nerezové ocely
+STR_CARGO_UNIT_STEEL                                                            :{WEIGHT} ocely
+STR_CARGO_UNIT_STEEL_SECTIONS                                                   :{WEIGHT} kovových součástek
+STR_CARGO_UNIT_STEEL_SHEET                                                      :{WEIGHT} plátové ocely
+STR_CARGO_UNIT_STEEL_WIRE_ROD                                                   :{WEIGHT} drátové ocely
+STR_CARGO_UNIT_STONE                                                            :{WEIGHT} kamene
+STR_CARGO_UNIT_SUGAR                                                            :{WEIGHT} cukru
 STR_CARGO_UNIT_SUGAR_BEET                                                       :{WEIGHT} cukrové řepy
+STR_CARGO_UNIT_SUGAR_CANE                                                       :{SIGNED_WORD} pyt{P 0 el le lů} cukrové třtiny
 STR_CARGO_UNIT_SULPHUR                                                          :{WEIGHT} síry
-STR_CARGO_UNIT_VEHICLE_BODIES                                                   :{WEIGHT} karoserií vozidel
+STR_CARGO_UNIT_SULPHURIC_ACID                                                   :{VOLUME} kyseliny sírové
+STR_CARGO_UNIT_TEXTILES                                                         :{WEIGHT} látky
+STR_CARGO_UNIT_TIN                                                              :{WEIGHT} cínu
+STR_CARGO_UNIT_TINPLATE                                                         :{WEIGHT} cínových plátů
+STR_CARGO_UNIT_TYRES                                                            :{WEIGHT} gumových dílů
+STR_CARGO_UNIT_UREA                                                             :{WEIGHT} močoviny
+STR_CARGO_UNIT_VEHICLE_BODIES                                                   :{WEIGHT} karoserií
+STR_CARGO_UNIT_VEHICLE_ENGINES                                                  :{WEIGHT} motorů
 STR_CARGO_UNIT_VEHICLE_PARTS                                                    :{WEIGHT} dílů vozidel
 STR_CARGO_UNIT_VEHICLES                                                         :{WEIGHT} vozidel
 STR_CARGO_UNIT_WOOL                                                             :{SIGNED_WORD} balík{P 0 "" y ů} vlny
+STR_CARGO_UNIT_YARN                                                             :{SIGNED_WORD} balík{P 0 "" y ů} příze
 STR_CARGO_UNIT_ZINC                                                             :{WEIGHT} zinku
 
-STR_CID_ACID                                                                    :{TINYFONT}KYS
-STR_CID_ALCOHOL                                                                 :{TINYFONT}AL
-STR_CID_BAUXITE                                                                 :{TINYFONT}BX
-STR_CID_BEANS                                                                   :{TINYFONT}FA
-STR_CID_BUILDING_MATERIALS                                                      :{TINYFONT}BM
-STR_CID_CASSAVA                                                                 :{TINYFONT}MA
-STR_CID_CEMENT                                                                  :{TINYFONT}CE
-STR_CID_CHEMICALS                                                               :{TINYFONT}CH
-STR_CID_CHLORINE                                                                :{TINYFONT}CL
-STR_CID_CLAY                                                                    :{TINYFONT}CL
-STR_CID_COFFEE                                                                  :{TINYFONT}KA
-STR_CID_COKE                                                                    :{TINYFONT}KO
-STR_CID_COPPER                                                                  :{TINYFONT}MD
-STR_CID_EDIBLE_OIL                                                              :{TINYFONT}PO
-STR_CID_ENGINEERING_SUPPLIES                                                    :{TINYFONT}ES
-STR_CID_EXPLOSIVES                                                              :{TINYFONT}EX
-STR_CID_FARM_SUPPLIES                                                           :{TINYFONT}FS
-STR_CID_FERTILISER                                                              :{TINYFONT}HN
-STR_CID_FIBRES                                                                  :{TINYFONT}PF
-STR_CID_FISH                                                                    :{TINYFONT}FI
-STR_CID_KAOLIN                                                                  :{TINYFONT}KA
-STR_CID_LIMESTONE                                                               :{TINYFONT}VP
-STR_CID_LUMBER                                                                  :{TINYFONT}LU
-STR_CID_LYE                                                                     :{TINYFONT}LO
-STR_CID_MANGANESE                                                               :{TINYFONT}MN
-STR_CID_METAL                                                                   :{TINYFONT}ML
-STR_CID_MILK                                                                    :{TINYFONT}MK
-STR_CID_NICKEL                                                                  :{TINYFONT}NK
-STR_CID_NITRATES                                                                :{TINYFONT}LE
-STR_CID_NUTS                                                                    :{TINYFONT}OŘ
-STR_CID_PACKAGING                                                               :{TINYFONT}BZ
-STR_CID_PEAT                                                                    :{TINYFONT}RA
-STR_CID_PETROL                                                                  :{TINYFONT}PT
-STR_CID_PIG_IRON                                                                :{TINYFONT}SŽ
-STR_CID_PIPE                                                                    :{TINYFONT}TR
-STR_CID_PHOSPHATE                                                               :{TINYFONT}FT
-STR_CID_POTASH                                                                  :{TINYFONT}PO
-STR_CID_PYRITE_ORE                                                              :{TINYFONT}PY
-STR_CID_QUICKLIME                                                               :{TINYFONT}NV
-STR_CID_RECYCLABLES                                                             :{TINYFONT}RM
-STR_CID_SALT                                                                    :{TINYFONT}SA
-STR_CID_SAND                                                                    :{TINYFONT}SA
-STR_CID_SCRAP_METAL                                                             :{TINYFONT}SM
-STR_CID_SLAG                                                                    :{TINYFONT}ST
-STR_CID_SODA_ASH                                                                :{TINYFONT}SO
-STR_CID_STEEL                                                                   :{TINYFONT}OL
-STR_CID_STONE                                                                   :{TINYFONT}ST
-STR_CID_SUGAR_BEET                                                              :{TINYFONT}CŘ
-STR_CID_SULPHUR                                                                 :{TINYFONT}SI
-STR_CID_VEHICLE_BODIES                                                          :{TINYFONT}KV
-STR_CID_VEHICLE_PARTS                                                           :{TINYFONT}DV
-STR_CID_VEHICLES                                                                :{TINYFONT}VO
-STR_CID_WOOL                                                                    :{TINYFONT}WL
-STR_CID_ZINC                                                                    :{TINYFONT}ZN
+
+# it seems that using 2 chars for these is a convention not a limit, I tested 4 chars and OpenTTD renders it fine - May 2020
+STR_CID_ACETIC_ACID                                                             :{TINYFONT}KYSO
+STR_CID_ACID                                                                    :{TINYFONT}KYSE
+STR_CID_ALCOHOL                                                                 :{TINYFONT}ALKO
+STR_CID_ALLOY_STEEL                                                             :{TINYFONT}SLOC
+STR_CID_ALUMINIA                                                                :{TINYFONT}OXHL
+STR_CID_ALUMINIUM                                                               :{TINYFONT}HLIN
+STR_CID_AMMONIA                                                                 :{TINYFONT}CPAV
+STR_CID_AMMONIUM_NITRATE                                                        :{TINYFONT}AMNT
+STR_CID_BAUXITE                                                                 :{TINYFONT}HLNK
+STR_CID_BEANS                                                                   :{TINYFONT}FAZO
+STR_CID_BIOMASS                                                                 :{TINYFONT}BIOM
+STR_CID_BUILDING_MATERIALS                                                      :{TINYFONT}STMA
+STR_CID_CARBON_BLACK                                                            :{TINYFONT}POPI
+STR_CID_CARBON_STEEL                                                            :{TINYFONT}UHOC
+STR_CID_CASSAVA                                                                 :{TINYFONT}MANI
+STR_CID_CAST_IRON                                                               :{TINYFONT}SUZE
+STR_CID_CEMENT                                                                  :{TINYFONT}CMNT
+STR_CID_CHEMICALS                                                               :{TINYFONT}CHEM
+STR_CID_CHROMITE_ORE                                                            :{TINYFONT}CHRO
+STR_CID_CHLORINE                                                                :{TINYFONT}CHLO
+STR_CID_CLAY                                                                    :{TINYFONT}JIL
+STR_CID_CLEANING_AGENTS                                                         :{TINYFONT}CIPO
+STR_CID_COFFEE                                                                  :{TINYFONT}KAVA
+STR_CID_COAL_TAR                                                                :{TINYFONT}DEHE
+STR_CID_COAL                                                                    :{TINYFONT}UHLI
+STR_CID_COKE                                                                    :{TINYFONT}KOKS
+STR_CID_COPPER                                                                  :{TINYFONT}MED
+STR_CID_COPPER_CONCENTRATE                                                      :{TINYFONT}MEKO
+STR_CID_COPPER_ORE                                                              :{TINYFONT}MERU
+STR_CID_EDIBLE_OIL                                                              :{TINYFONT}JEOL
+STR_CID_ELECTRICAL_PARTS                                                        :{TINYFONT}ELEK
+STR_CID_ENGINEERING_SUPPLIES                                                    :{TINYFONT}INPO
+STR_CID_ETHYLENE                                                                :{TINYFONT}MONO
+STR_CID_EXPLOSIVES                                                              :{TINYFONT}VYBU
+STR_CID_FARM_SUPPLIES                                                           :{TINYFONT}FARM
+STR_CID_FERROCHROME                                                             :{TINYFONT}FERO
+STR_CID_FERTILISER                                                              :{TINYFONT}HNOJ
+STR_CID_FIBRES                                                                  :{TINYFONT}VLAK
+STR_CID_FISH                                                                    :{TINYFONT}RYBY
+STR_CID_FISH_AND_MEAT                                                           :{TINYFONT}MASO
+STR_CID_FLOUR                                                                   :{TINYFONT}MOUK
+STR_CID_FOOD_ADDITIVES                                                          :{TINYFONT}PRIS
+STR_CID_FOOD                                                                    :{TINYFONT}JIDL
+STR_CID_FORMIC_ACID                                                             :{TINYFONT}KYMR
+STR_CID_FORGINGS_AND_CASTINGS                                                   :{TINYFONT}ODLI
+STR_CID_FRUITS                                                                  :{TINYFONT}OVOC
+STR_CID_FURNITURE                                                               :{TINYFONT}NABY
+STR_CID_GLASS                                                                   :{TINYFONT}SKLO
+STR_CID_GOODS                                                                   :{TINYFONT}ZBOZ
+STR_CID_GRAIN                                                                   :{TINYFONT}OBLI
+STR_CID_HYDROCHLORIC_ACID                                                       :{TINYFONT}HCL
+STR_CID_HYDROGEN                                                                :{TINYFONT}H2
+STR_CID_IRON_ORE                                                                :{TINYFONT}ZELR
+STR_CID_KAOLIN                                                                  :{TINYFONT}KAOL
+STR_CID_LIMESTONE                                                               :{TINYFONT}VAPE
+STR_CID_LIVESTOCK                                                               :{TINYFONT}DOBY
+STR_CID_LOGS                                                                    :{TINYFONT}DREV
+STR_CID_TIMBER                                                                  :{TINYFONT}REZI
+# cargo uses Sodium Hydroxide as name string as it's interchangeable with Lye, but lye is convenient for filename / cargo label
+STR_CID_LYE                                                                     :{TINYFONT}HYSO
+STR_CID_MAIL                                                                    :{TINYFONT}POST
+STR_CID_MANGANESE                                                               :{TINYFONT}MN02
+STR_CID_MEAT                                                                    :{TINYFONT}MASO
+STR_CID_METAL                                                                   :{TINYFONT}METL
+STR_CID_METHANE                                                                 :{TINYFONT}CH4
+STR_CID_METHANOL                                                                :{TINYFONT}METH
+STR_CID_MILK                                                                    :{TINYFONT}MLEK
+STR_CID_NAPHTHA                                                                 :{TINYFONT}NAPH
+STR_CID_NICKEL                                                                  :{TINYFONT}NIKL
+STR_CID_NITRATES                                                                :{TINYFONT}NITR
+STR_CID_NITROGEN                                                                :{TINYFONT}N2
+STR_CID_NUTS                                                                    :{TINYFONT}OREC
+STR_CID_OIL                                                                     :{TINYFONT}ROPA
+STR_CID_OIL_SEEDS                                                               :{TINYFONT}OLSE
+STR_CID_OXYGEN                                                                  :{TINYFONT}O2
+STR_CID_PACKAGING                                                               :{TINYFONT}OBAL
+STR_CID_PASSENGERS                                                              :{TINYFONT}OSOB
+STR_CID_PAINTS_AND_COATINGS                                                     :{TINYFONT}BARV
+STR_CID_PEAT                                                                    :{TINYFONT}PEAT
+STR_CID_PETROL                                                                  :{TINYFONT}PETR
+STR_CID_PIG_IRON                                                                :{TINYFONT}SRZE
+STR_CID_PIPE                                                                    :{TINYFONT}TRUB
+STR_CID_PHOSPHATE                                                               :{TINYFONT}PHOS
+STR_CID_PHOSPHORIC_ACID                                                         :{TINYFONT}PHKY
+STR_CID_PLASTICS                                                                :{TINYFONT}PLAS
+STR_CID_PLASTIC_PARTS                                                           :{TINYFONT}PPAR
+STR_CID_POTASH                                                                  :{TINYFONT}PASH
+STR_CID_PROPYLENE                                                               :{TINYFONT}PROP
+STR_CID_PYRITE_ORE                                                              :{TINYFONT}PYRO
+STR_CID_QUICKLIME                                                               :{TINYFONT}QLME
+STR_CID_RARE_METALS                                                             :{TINYFONT}VZKO
+STR_CID_RAW_LATEX                                                               :{TINYFONT}LATE
+STR_CID_REBAR                                                                   :{TINYFONT}ARMA
+STR_CID_RECYCLABLES                                                             :{TINYFONT}RCYC
+STR_CID_RUBBER                                                                  :{TINYFONT}GUMA
+STR_CID_SALT                                                                    :{TINYFONT}SUL
+STR_CID_SAND                                                                    :{TINYFONT}PISE
+STR_CID_SCRAP_METAL                                                             :{TINYFONT}SORT
+STR_CID_SLAG                                                                    :{TINYFONT}STRU
+STR_CID_SODA_ASH                                                                :{TINYFONT}SASH
+STR_CID_STAINLESS_STEEL                                                         :{TINYFONT}NERE
+STR_CID_STEEL                                                                   :{TINYFONT}OCEL
+STR_CID_STONE                                                                   :{TINYFONT}KAME
+STR_CID_SUGAR                                                                   :{TINYFONT}CUKR
+STR_CID_SUGAR_BEET                                                              :{TINYFONT}CKRE
+STR_CID_SUGAR_CANE                                                              :{TINYFONT}CKTR
+STR_CID_SULPHUR                                                                 :{TINYFONT}SIRA
+STR_CID_SULPHURIC_ACID                                                          :{TINYFONT}H2S0
+STR_CID_STEEL_SECTIONS                                                          :{TINYFONT}MPAR
+STR_CID_STEEL_SHEET                                                             :{TINYFONT}PLCH
+STR_CID_STEEL_WIRE_ROD                                                          :{TINYFONT}DRAT
+STR_CID_TEXTILES                                                                :{TINYFONT}TEXT
+STR_CID_TIN                                                                     :{TINYFONT}CIN
+STR_CID_TINPLATE                                                                :{TINYFONT}TINP
+STR_CID_TYRES                                                                   :{TINYFONT}PNEU
+STR_CID_UREA                                                                    :{TINYFONT}MOCO
+STR_CID_VEHICLE_BODIES                                                          :{TINYFONT}KARO
+STR_CID_VEHICLE_ENGINES                                                         :{TINYFONT}MOTO
+STR_CID_VEHICLE_PARTS                                                           :{TINYFONT}AUPA
+STR_CID_VEHICLES                                                                :{TINYFONT}VOZI
+STR_CID_WOOL                                                                    :{TINYFONT}VLNA
+STR_CID_YARN                                                                    :{TINYFONT}PRIZ
+STR_CID_ZINC                                                                    :{TINYFONT}ZINE
 
 
 STR_ERR_CLIMATE_TOYLAND                                                         :{ORANGE}FIRS není navržen pro použití v Zemi hraček
@@ -202,77 +389,133 @@ STR_ERR_LOCATION_NOT_ON_STEEP_SLOPE                                             
 STR_ERR_LOCATION_LIMIT_1_PER_TOWN                                               :povolen pouze jeden průmysl tohoto typu na město.
 
 STR_IND_ALUMINIUM_PLANT                                                         :Hliníková huť
+STR_IND_ALUMINA_REFINERY                                                        :Slévárna hliníku
 STR_IND_AMMONIA_PLANT                                                           :Čpavkárna
-STR_IND_ARABLE_FARM                                                             :Rostlinná farma
-STR_IND_ASSEMBLY_PLANT                                                          :Montážní závod
+STR_IND_ARABLE_FARM                                                             :Zemědělská farma
+STR_IND_APPLIANCE_FACTORY                                                       :Továrna na spotřebiče
+STR_IND_ASSEMBLY_PLANT                                                          :Montovna
+STR_IND_BAKERY                                                                  :Pekárna
 STR_IND_BASIC_OXYGEN_FURNACE                                                    :Kyslíková pec
-STR_IND_BIOREFINERY                                                             :Biorafinerie
+STR_IND_BAUXITE_MINE                                                            :Bauxitoví důl
+STR_IND_BIOREFINERY                                                             :Biorefinerie
 STR_IND_BLAST_FURNACE                                                           :Vysoká pec
+STR_IND_BODY_PLANT                                                              :Karosárna
 STR_IND_BREWERY                                                                 :Pivovar
-STR_IND_CIDER_MILL                                                              :Pálenka
-STR_IND_BRICK_WORKS                                                             :Cihelna
-STR_IND_BUILDERS_YARD                                                           :Stavebniny
+STR_IND_CIDER_MILL                                                              :Moštárna
+STR_IND_COTTON_FARM                                                             :Ovčí farma
+STR_IND_BRICK_WORKS                                                             :Cihlárna
+STR_IND_BUILDERS_YARD                                                           :Stavební firma
 STR_IND_BULK_TERMINAL                                                           :Nákladový terminál
+STR_IND_CANNERY                                                                 :Konzervárna
+STR_IND_CARBON_BLACK_PLANT                                                      :Popílkový lis
 STR_IND_CEMENT_PLANT                                                            :Cementárna
 STR_IND_CHEMICAL_PLANT                                                          :Chemička
-STR_IND_CLAY_PIT                                                                :Jílový důl
+STR_IND_CHLOR_ALKALI_PLANT                                                      :Chlor-alkalitová rafinérie
+STR_IND_CHROMITE_MINE                                                           :Chromitový důl
+STR_IND_CIVIL_EXPLOSIVES_FACILITY                                               :Továrna na výbušniny
+STR_IND_CLAY_PIT                                                                :Důl na jíl
 STR_IND_COFFEE_ESTATE                                                           :Kávová plantáž
-STR_IND_COKE_OVEN                                                               :Koksová pec
-STR_IND_COPPER_REFINERY                                                         :Slévárna mědi
+STR_IND_COKE_OVEN                                                               :Koksovna
+STR_IND_COMPONENT_FACTORY                                                       :Továrna na díly
+STR_IND_COPPER_CONCENTRATOR                                                     :Koncetrátor mědi
+STR_IND_COPPER_REFINERY                                                         :Tavírna mědi
+STR_IND_CRYO_PLANT                                                              :Kryo závod
 STR_IND_DAIRY                                                                   :Mlékárna
 STR_IND_DAIRY_FARM                                                              :Mléčná farma
-STR_IND_DREDGING_SITE                                                           :Těžba podvodních sedimentů
+STR_IND_DISTILLERY                                                              :Destilérie a vinařství
+STR_IND_DREDGING_SITE                                                           :Jáma
+STR_IND_EDIBLE_OIL_REFINERY                                                     :Rafinérie na jedlý olej
 STR_IND_ELECTRIC_ARC_FURNACE                                                    :Oblouková pec
-STR_IND_FISHING_GROUND                                                          :Loviště ryb
-STR_IND_FISHING_HARBOUR                                                         :Rybí trh
+STR_IND_ELECTRICAL_WORKS                                                        :Electrická dílna
+STR_IND_ENGINE_PLANT                                                            :Motorárna
+STR_IND_ETHYLENE_CRACKER                                                        :Krakovací rafinerie
+STR_IND_FARM                                                                    :Farma
+STR_IND_FARM_SUPPLY_YARD                                                        :Sklad farmářských potřeb
+STR_IND_FERROCHROME_SMELTER                                                     :Tavírna feroslitin
+STR_IND_FERTILISER_PLANT                                                        :Továrna na hnojiva
+STR_IND_FACTORY_1                                                               :Továrna 1
+STR_IND_FACTORY_2                                                               :Továrna 2
+STR_IND_FACTORY_3                                                               :Továrna 3
+STR_IND_FISCHER_TROPSCH_PLANT                                                   :Zkapalňovač uhlí
+STR_IND_FISH_FARM                                                               :Sádky
+STR_IND_FISHING_GROUND                                                          :Oblast pro rybolov
+STR_IND_FISHING_HARBOUR                                                         :Rybářský přístav
 STR_IND_FISHING_VILLAGE                                                         :Rybářská vesnice
 STR_IND_FLOUR_MILL                                                              :Mlýn
-STR_IND_FOOD_MARKET                                                             :Obchod
+STR_IND_FOOD_MARKET                                                             :Potraviny
 STR_IND_FOOD_PROCESSOR                                                          :Potravinářský závod
-STR_IND_FURNITURE_FACTORY                                                       :Truhlářství
-STR_IND_GENERAL_STORE                                                           :Obchod se smíšeným zbožím
+STR_IND_FRUIT_PACKING_PLANT                                                     :Balírna ovoce
+STR_IND_FURNITURE_FACTORY                                                       :Nábytkářství
+STR_IND_FORGE_AND_FOUNDRY                                                       :Slévárna a obrobárna
+STR_IND_GENERAL_STORE                                                           :Smíšené zboží
 STR_IND_GLASS_WORKS                                                             :Sklárna
 STR_IND_HARDWARE_STORE                                                          :Železářství
 STR_IND_HOTEL                                                                   :Hotel
-STR_IND_HERDING_COOP                                                            :Drůbežárna
+STR_IND_HERDING_COOP                                                            :Pastviny
 STR_IND_IRON_WORKS                                                              :Železárna
-STR_IND_JUNKYARD                                                                :Smetiště
+STR_IND_JUNKYARD                                                                :Kovošrot
+STR_IND_LATEX_PROCESSOR                                                         :Latexová rafinerie
 STR_IND_LIME_KILN                                                               :Vápenka
-STR_IND_LIMESTONE_MINE                                                          :Vápencový důl
-STR_IND_LIQUIDS_TERMINAL                                                        :Skladiště kapalin
-STR_IND_LUMBER_YARD                                                             :Řezárna
-STR_IND_MACHINE_SHOP                                                            :Obchod se stroji
-STR_IND_MANGANESE_MINE                                                          :Manganový důl
+STR_IND_LIMESTONE_MINE                                                          :Vápencový lom
+STR_IND_LIQUIDS_TERMINAL                                                        :Terminál na kapaliny
+STR_IND_LUMBER_YARD                                                             :Sklad dřeva
+STR_IND_MACHINE_SHOP                                                            :Dílna
+STR_IND_MACHINE_WORKS                                                           :Strjírenský závod
+STR_IND_MANGANESE_MINE                                                          :Manganoví důl
+STR_IND_MEAT_PACKING_PLANT                                                      :Masokombinát
 STR_IND_METAL_WORKSHOP                                                          :Kovodílna
 STR_IND_MIXEDFARM                                                               :Smíšená farma
-STR_IND_NITRATE_MINE                                                            :Dusičnanový důl
-STR_IND_ORCHARD_PIGGERY                                                         :Sad a vepřín
+STR_IND_NITRATE_MINE                                                            :Důl na nitráty
+STR_IND_ORCHARD_PIGGERY                                                         :Sad a prasečák
+STR_IND_PAINT_FACTORY                                                           :Továrna na barvy
 STR_IND_PEATLANDS                                                               :Rašeliniště
-STR_IND_PETROLPUMP                                                              :Benzínová stanice
+STR_IND_PETROLPUMP                                                              :Benzínka
 STR_IND_PHOSPHATE_MINE                                                          :Fosfátový důl
-STR_IND_PLASTICS_PLANT                                                          :Továrna na plasty
-STR_IND_PORT                                                                    :Přístav
+STR_IND_PHOSPHORIC_ACID_PLANT                                                   :Fosfátová rafinerie
+STR_IND_PLASTICS_PLANT                                                          :Formovna
+STR_IND_PLAZA                                                                   :Náměstí
+STR_IND_POLYETHYLENE_PLANT                                                      :Polyethylenová továrna
+STR_IND_POLYPROPYLENE_PLANT                                                     :Polypropylenová továrna
+STR_IND_POLYMER_PLANT                                                           :Polymerová továrna
+STR_IND_PORT                                                                    :Přístaviště
 STR_IND_POTASH_MINE                                                             :Potašový důl
 STR_IND_PYRITE_MINE                                                             :Pyritový důl
-STR_IND_PYRITE_SMELTER                                                          :Pyritová huť
+STR_IND_PYRITE_SMELTER                                                          :Tavírna pyritu
 STR_IND_POWER_PLANT                                                             :Elektrárna
-STR_IND_QUARRY                                                                  :Kamenolom
+STR_IND_QUARRY                                                                  :Lom
 STR_IND_RANCH                                                                   :Ranč
-STR_IND_RECYCLING_DEPOT                                                         :Sklad tříděného odpadu
-STR_IND_RECYCLING_PLANT                                                         :Třídírna odpadů
+STR_IND_RECYCLING_DEPOT                                                         :Reckylační dvůr
+STR_IND_RECYCLING_PLANT                                                         :Recyklační středisko
 STR_IND_REINDEER_FARM                                                           :Sobí farma
+STR_IND_SALT_MINE                                                               :Solný důl
+STR_IND_SALT_EVAPORATOR                                                         :Odsolovací závod
+STR_IND_SEAWEED_FARM                                                            :Pěstírna řas
 STR_IND_SHEEPFARM                                                               :Ovčí farma
-STR_IND_SLAG_GRINDING_PLANT                                                     :Drtič strusky
-STR_IND_SMITHY_FORGE                                                            :Kovárna
-STR_IND_SODA_ASH_MINE                                                           :Důl na sodu
-STR_IND_STOCKYARD                                                               :Masokombinát
+STR_IND_SLAG_GRINDING_PLANT                                                     :Drtička strusky
+STR_IND_SMITHY_FORGE                                                            :Železárny
+STR_IND_SOAP_FACTORY                                                            :Výrobna čistidel
+STR_IND_SODA_ASH_MINE                                                           :Důl na sodný prášek
+STR_IND_SOLVAY_PLANT                                                            :Zpracovatel čpavku
+# we use 'integrated_steel_mill' in code to avoid confusion with Steeltown mills, but it's easier to just use 'Steel Mill' for name that players see
+STR_IND_INTEGRATED_STEEL_MILL                                                   :Ocelárna
+STR_IND_SHEET_MILL                                                              :Válcovna plechu
+STR_IND_SHEET_AND_PIPE_MILL                                                     :Továrna na plech a trubky
+STR_IND_SHIPBREAKER                                                             :Doky
+STR_IND_SPICE_PLANTATION                                                        :Farma na koření
+STR_IND_STOCKYARD                                                               :Jatka
 STR_IND_SUGAR_REFINERY                                                          :Cukrovar
-STR_IND_SUPPLY_YARD                                                             :Sklad zásob
+STR_IND_SULPHURIC_ACID_PLANT                                                    :Kyselinová rafinerie
+STR_IND_SUPPLY_YARD                                                             :Sklad inženýrských potřeb
+STR_IND_SYNTHETIC_RUBBER_PLANT                                                  :Syntetická rafinerie
+STR_IND_TAR_SANDS_MINE                                                          :Těžba ropných písků
 STR_IND_TEXTILE_MILL                                                            :Tkalcovna
-STR_IND_TRADING_POST                                                            :Obchodní místo
+STR_IND_TINPLATE_WORKS                                                          :Závod na cínové pláty
+STR_IND_TRADING_POST                                                            :Tržiště
 STR_IND_TYRE_PLANT                                                              :Továrna na pneumatiky
 STR_IND_VINEYARD                                                                :Vinice
-STR_IND_WHARF                                                                   :Přístaviště
+STR_IND_VEHICLE_DISTRIBUTOR                                                     :Autosalon
+STR_IND_WHARF                                                                   :Přístav
+STR_IND_WIRE_AND_SECTION_MILL                                                   :Drátovna
 
 
 STR_CARGO_SUBTYPE_DISPLAY_CARGO_SUPPLIED_FLAG                             : {BLACK}(doručeno)
